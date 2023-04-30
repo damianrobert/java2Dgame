@@ -1,4 +1,5 @@
 # Making Your First Game in Java
+#BEN JHONSON PROJECT IDEA
 
 Source code for a video game project tutorial on the **Learn Code By Gaming** YouTube channel.
 
